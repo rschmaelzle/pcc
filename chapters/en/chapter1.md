@@ -1,8 +1,8 @@
 ---
-title: 'Chapter 1: Introduction to Health Communication'
+title: 'Chapter 1: Introduction to Public Communication Campaigns'
 description:
-  "This chapter will introduce you to the field of Health Communication.
-  You'll learn about the definition and history of public communication campaigns, about major disciplines involved, and about successes and failures. The chapter is meant as an introduction and to provide the context for the main part of the course."
+  "This chapter will introduce you to the field of Communication Campaigns.
+  You'll learn about the definition and history of public communication campaigns, particularly in the domain of health. We will cover major disciplines and approaches and hear about past successes and failures. The chapter is meant as an introduction and to provide the context for the main part of the course."
 prev: null
 next: /chapter2
 type: chapter
