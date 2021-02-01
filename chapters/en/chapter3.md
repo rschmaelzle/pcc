@@ -11,7 +11,7 @@ id: 3
 <exercise id="1" title="Theory & Practice">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/C4UhokMlwFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN1FGSFE0WkxDTDdPN01LSFZBV0NSOUJXTy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 <p></p>
 
 ### Quiz
@@ -53,7 +53,7 @@ Although fear appeals, their efficacy and appropriateness in different contexts 
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URDlFM1FHWEE1M1VGUFEwQjVBN0VGT0hOUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URE1aTDNLVk5DM0IyVE82WkczQlRUWlZGTS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Witte, K.; Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. Health Education & Behavior. 27 (5): 591–615. 
@@ -80,7 +80,7 @@ The Health Belief Model ...
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UREhVR1UzR0VBR0UzVjNUQThFVkIwVjlUQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMzVYTUw5OU9HVkFIUVpCT0xORUVJWU9BRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Janz, N.K. & Becker, M. (1984). The Health Belief Model: A Decade Later. Health Education & Behavior. 11 (1): 1–47. doi:10.1177/109019818401100101. hdl:2027.42/66877. PMID 6392204.
@@ -107,7 +107,7 @@ The Theory of Reasoned Action ...
 
 ### Reflection 
 (must be logged in) - <a href = "./slides/TPB2018a.csv"> Datafile for exercise </a>
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNVZIM0taOTlCOFlLWDEzNkw0M0xRRzlEUS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN002SDQyRFhPTldNRDBLRVE4QlhaS1hPMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Ajzen, I. (1988). Attitudes, personality and behavior. Milton Keynes: Open University Press.
@@ -138,7 +138,7 @@ A social norm is a
 
 ### Reflection 
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ0IyTjdIVkU5UkU3WllFQzZYVkZCSFYwRi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNEJIOFZMVTdSRzNWMVIyQ0RPUjNXQUxJWC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Lapinski, M. K., & Rimal, R. N. (2005). An explication of social norms. Communication theory, 15(2), 127-147.
@@ -167,7 +167,7 @@ Inverse observational learning is a made up term. The key mechanism ofnarrative 
 
 ### Reflection
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ0dVUEw5S0FIR1JXRk9BTE9ZTFdRVEhPRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -194,7 +194,7 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 
 ### Reflection
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVAwWDlTVDNINlZHWlpCMzNWOVFDWlNPQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMEFJMFY3N1pPQlA5M0FPTzg5Mjg1WFpSWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Brehm, J. W. (1966). A theory of psychological reactance. Academic Press.
@@ -221,7 +221,7 @@ Inoculation Theory uses medical inoculation as its explanatory analogy, applied 
 
 ### Reflection
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVczUFZEWVRTQzEwUEcwNVlKRE42SDIxTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOFlKNFNTRjdTWVE0WDJOSldUNkFFN0RJUy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -250,7 +250,7 @@ The WHO put out this <a href = "https://twitter.com/WHO/status/11920712972301475
 
 ### Reflection
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNlhONVZDUzRIUkxCM1lXOFY2UjM3S1U3VC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNFpXWUpZQk84ODRQWU5ISFZRQ0lUQVk0Sy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -292,7 +292,7 @@ The contemplation stage is the correct answer.</opt>
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNlAwVVVHS1VCRUswRUo5UlNJUjhMUEdCQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQTFXQUo1VkdHNTBYNE4wMFBZSkVEMjNIRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -307,7 +307,7 @@ Population-based Approaches to Health Promotion and Disease Prevention. Homeosta
 <exercise id="10" title="So many Theories: Which one to chose?">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Jrl5cAGFeJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URUZHVTFDQkoyTDlQS0ZGRU0wU0E1S0VHQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 <p></p>
 
 
@@ -336,10 +336,3 @@ You come across an anti-smoking message. The message contains text and images, a
 </exercise>
 
 
-<exercise id="11" title="Writing the Theory-Section and Crafting a Message Brief">
-
-### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/juPKcpzri7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-
-</exercise>
