@@ -30,7 +30,7 @@ More  than  half  of  campaign  efforts  report  no  formative  research  effort
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNzlYVzdVNFIzVFRWMFlNVTdVQjlVREVEWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UREZaU0JSSzhKQkVaRDVMS0REUFNGRU5TRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
@@ -61,7 +61,7 @@ A SWOT Analysis is a method under the genneral term situation analysis that exam
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVg2WEY2SUhGMkdaTktUSFQ3SFhDVTZFWC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVhCTFAzSFFIUzgzVEgyS1daSDYzNlhYVi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
@@ -88,7 +88,7 @@ The effort needed for performing such an analysis is actually rather minimal, es
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN0ZLVEM1TTdWMERGMERZR0hMVFU3U0FZQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNUpDRTlLTzJPT1c5SDlOMFpLWTJIUkpNUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Dunstone, K., Brennan, E., Slater, M. D., Dixon, H. G., Durkin, S. J., Pettigrew, S., & Wakefield, M. A. (2017). Alcohol harm reduction advertisements: a content analysis of topic, objective, emotional tone, execution and target audience. BMC public health, 17(1), 312.
@@ -125,7 +125,7 @@ Since the public health communication situation does not usually take place in a
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMldCNkkxRUxBSkRMVFlSVUtFR0NQVE83Qy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URDRES0tIWkVNTlhEN0ZNVVkzQktTQllQVy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Slater, M. D., Kelly, K. J., & Thackeray, R. (2006). Segmentation on a shoestring: Health audience segmentation in limited-budget and local social marketing interventions. Health promotion practice, 7(2), 170-173..
@@ -139,6 +139,6 @@ Since the public health communication situation does not usually take place in a
 
 ### Video
 Audience Analysis
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/66UoNiaXApQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 </exercise>
