@@ -12,7 +12,7 @@ id: 1
 <exercise id="1" title="Overview and definitions">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/P_kK4Wz6x44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Quiz
 <p></p>
@@ -45,7 +45,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 <exercise id="2" title="Health communication across the ages" type="video">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XiUOon1RHy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Quiz
 Select the most accurate historical timeline for public communication campaign messages (earliest to latest).   
@@ -61,7 +61,7 @@ Select the most accurate historical timeline for public communication campaign m
 </choice>
 
 ### Reflection
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOU05SEtUN1RRSEFOSEc3NTBLMUIxVzJETi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
@@ -75,7 +75,7 @@ Select the most accurate historical timeline for public communication campaign m
 
 ### The Health Persuasion Approach
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/V8PVAduan-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Social Marketing Approach
 
@@ -100,7 +100,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 </choice>
 
 ### Reflection
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNTVKOFgwWU1IVEFQTkNJMzdKSk9EMzg3US4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Bonus: Behavior Change Taxonomy App
 
@@ -134,8 +134,8 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 </choice>
 
 
-### CommLibs Exercise 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+### Reflection 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URUs5MDBZTjdGTjRTU0Q2NTBCM1ZFRUFQQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Doerr, J.E. (2018). Measure what matters : how Google, Bono, and the Gates Foundation rock the world with OKRs. Penguin Books.
@@ -144,25 +144,18 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 
 </exercise>
 
-<exercise id="5" title="Some questions about you!"  type="video">
-
-Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the role of mass communication within public health. 
-
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
-
-</exercise>
 
 <exercise id="6" title="Intro to the campaign project"  type="video">
 
 ### Video
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Zbn8U4Oabe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Writing Tips
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/IcM0MzByjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Provisional Common Document
-<a href="https://michiganstate-my.sharepoint.com/:w:/g/personal/schmaelz_msu_edu/EU3eaArExf9Goc9hR96oKQcBrwEQLjm15D-0q-YN8M_wyg?e=z6c2hl"> Link to our common Document</a>
+<a href="ToDO"> Following Link to our common Document</a>
 
 </exercise>
