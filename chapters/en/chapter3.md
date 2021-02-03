@@ -336,3 +336,12 @@ You come across an anti-smoking message. The message contains text and images, a
 </exercise>
 
 
+<exercise id="11" title="Writing the section on theory and crafting a messaging brief">
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+</exercise>
+
+
+
