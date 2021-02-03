@@ -1,7 +1,9 @@
 ---
 title: 'Chapter 4: Getting the word out'
 description:
-  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful."
+  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful.
+PLEASE DO NOT YET COMPLETE THE REFLECTIONS - YOU CAN WATCH THE VIDEOS IF YOU LIKE, BUT HOLD OFF WITH THE REFLECTIONS UNTIL WE'RE CAUGHT UP WITH CLASS! THANK YOU!
+"
 prev: /chapter3
 next: /chapter5
 type: chapter
