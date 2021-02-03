@@ -42,7 +42,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 </exercise>
 
-<exercise id="2" title="Health communication across the ages" type="video">
+<exercise id="2" title="Health communication across the ages">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XiUOon1RHy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -71,7 +71,7 @@ Select the most accurate historical timeline for public communication campaign m
 
 
 
-<exercise id="3" title="Major disciplines involved" type="video">
+<exercise id="3" title="Major disciplines involved">
 
 ### The Health Persuasion Approach
 
@@ -117,7 +117,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 
 
 
-<exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
+<exercise id="4" title="Seeds for success: Strategy, theory, and research">
   
 ### Video
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/dyEezusEUyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -145,7 +145,7 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 </exercise>
 
 
-<exercise id="6" title="Intro to the campaign project"  type="video">
+<exercise id="6" title="Intro to the campaign project">
 
 ### Video
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
