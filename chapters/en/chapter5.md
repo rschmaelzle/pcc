@@ -1,7 +1,8 @@
 ---
 title: 'Chapter 5: Evaluation'
 description:
-  "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication."
+  "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication. 
+  PLEASE DO NOT YET COMPLETE THE REFLECTIONS - YOU CAN WATCH THE VIDEOS IF YOU LIKE, BUT HOLD OFF WITH THE REFLECTIONS UNTIL WE'RE CAUGHT UP WITH CLASS! THANK YOU!"
 prev: /chapter4
 next: null
 type: chapter
