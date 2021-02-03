@@ -11,7 +11,7 @@ id: 3
 <exercise id="1" title="Theory & Practice">
 
 ### Video
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN1FGSFE0WkxDTDdPN01LSFZBV0NSOUJXTy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/smGU8PNKqHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -25,7 +25,7 @@ While it is true that theories can help yout justifying your strategy and that t
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ1NLRldYVFBEOUVLQVkzN0tVVUVSWloxUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN1FGSFE0WkxDTDdPN01LSFZBV0NSOUJXTy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Fishbein, M., & Cappella, J. N. (2006). The role of theory in developing effective health communications. Journal of communication, 56, S1-S17.
@@ -307,7 +307,7 @@ Population-based Approaches to Health Promotion and Disease Prevention. Homeosta
 <exercise id="10" title="So many Theories: Which one to chose?">
 
 ### Video
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URUZHVTFDQkoyTDlQS0ZGRU0wU0E1S0VHQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Jrl5cAGFeJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
@@ -323,7 +323,7 @@ You come across an anti-smoking message. The message contains text and images, a
 
 ### Reflection
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMFNIQjMxQzZZT0swNFpSSVFGR0ZEMUU4VC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URUZHVTFDQkoyTDlQS0ZGRU0wU0E1S0VHQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
