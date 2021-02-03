@@ -31,7 +31,7 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URjJTRUtaUUtQRVJSRjUxSE9GRlc5S0FTMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNzJZQThaSDZKMEE2UEk5VU9KNjY1WDRKMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
@@ -79,11 +79,11 @@ Select the most accurate historical timeline for public communication campaign m
 
 ### Social Marketing Approach
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xTZwx95Lbmw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Psychology/Behavior Change Approaches
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/NgcQgDIZDjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Quiz
 You are going on a fishing trip. While buying equipmeent, you receive an information brochure with information about which lake Michigan fish are safe to eat. The source of the pamphlet is the Department of Health and Humans Services, which runs a campaign called "Eat safe fish". This is most likely an example comming from which approach? 
@@ -104,7 +104,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 
 ### Bonus: Behavior Change Taxonomy App
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//SzDSVx6gY0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/lX5PNrDjh7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Literature
 - Donovan, R. & Henley, N. (2012). Principles and Practice of Social Marketing: An International Perspective. Cambridge University Press. 
@@ -120,7 +120,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 <exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
   
 ### Video
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ijZipUhwLVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/dyEezusEUyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Quiz
 The best campaign objectives are written to be broad and inclusive of an entire field in order to incorporate the largest goal possible.
@@ -148,11 +148,11 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 <exercise id="6" title="Intro to the campaign project"  type="video">
 
 ### Video
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Writing Tips
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Provisional Common Document
