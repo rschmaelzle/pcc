@@ -11,7 +11,7 @@ id: 2
 <exercise id="1" title="Formative research">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ramH82O-4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/USZiG0ZuZJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -43,7 +43,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 <exercise id="2" title="Situation analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/b5oW3L60LR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pisbjcYuW84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -74,7 +74,7 @@ promotion practice. 13(4), 481-8.
 <exercise id="3" title="Previous campaign analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LJaE4F-vzHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nTB6qmo1WFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -103,7 +103,7 @@ The effort needed for performing such an analysis is actually rather minimal, es
 
 ### Video
 Audience Analysis
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/n6GGCzDDyZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-k-ncVCMats" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Audience Segmentation
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7r4jRtTxjP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -138,7 +138,6 @@ Since the public health communication situation does not usually take place in a
 <exercise id="5" title="Writing the section on formative research">
 
 ### Video
-Audience Analysis
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 </exercise>
