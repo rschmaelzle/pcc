@@ -147,15 +147,15 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 
 <exercise id="6" title="Intro to the campaign project">
 
-### Video
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+### Video: Introduction to the Campaign Proposal
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_7Up9FrrqD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
-### Writing Tips
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+### Video: Tips for writing the Introduction Section
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/fu4-f3w40WA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Provisional Common Document
-<a href="ToDO"> Following Link to our common Document</a>
+<a href="https://michiganstate-my.sharepoint.com/:w:/g/personal/schmaelz_msu_edu/EUu-XhQJ1alLhT3Y_uz2L28BrZDwAIrXPA3_MYlvuZ_h9Q?e=WgXa6Y">Link to our COMMON DOCUMENT</a> (Springboard to look at other peoples' campaign proposals)
 
 </exercise>
