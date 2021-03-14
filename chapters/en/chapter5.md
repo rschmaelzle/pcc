@@ -1,8 +1,7 @@
 ---
 title: 'Chapter 5: Evaluation'
 description:
-  "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication. 
-  PLEASE DO NOT YET COMPLETE THE REFLECTIONS - YOU CAN WATCH THE VIDEOS IF YOU LIKE, BUT HOLD OFF WITH THE REFLECTIONS UNTIL WE'RE CAUGHT UP WITH CLASS! THANK YOU!"
+  "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication. "
 prev: /chapter4
 next: null
 type: chapter
@@ -27,7 +26,7 @@ You are right - this statement is not correct. Pretty much everyone can run a ca
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVczNzdJNVIyRjk3NTdKODFIRjc4SzVaWS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URU5WWEZXUklVRTUzTlJUOUxBOUhEVlVVNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -55,7 +54,7 @@ Since exposure is the central piece in the logic - comparable to taking a pill i
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQjlLNkQ3Tk1WQVJFVURCQksxNTRTUUEzRC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNjI1VklTTVoxU0U1Q05NQVdOSDVNODJWMi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -75,7 +74,7 @@ Since exposure is the central piece in the logic - comparable to taking a pill i
 
 
 ### Quiz
-To increase the conclusiveness of your evaluation resutls, two key issues to think about in advance are . 
+To increase the conclusiveness of your evaluation results, two key issues to think about in advance are . 
 <choice>
 <opt correct="true" text="i) pre-post comparison and ii) control group.">
 If the situation post-campaign isn't better than pre-campaign, it cannot have helped much (unless you make the argument that without the campaign, it would have gotten even worse). A control group will help to make the case that the campaign (or exposure to communication) was causal factor that produced the improvement.</opt>
@@ -86,7 +85,7 @@ Although these points are both desirable, it will help you more to show that i) 
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTQwNlVMN1E1RFdPOFdRWkNSSU1IQ003Uy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5JOFZRN0M2VFlEWE9WOFhSSDhWUkxPUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -117,7 +116,7 @@ Choose the list that moves from most rigorous to least rigorous.
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNjBCREExWUZUM1RPRlJQSEJQVjk2OEc0My4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOEhORzMwMzQzVUxXQzNEWEJGUTI5MzUxRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
