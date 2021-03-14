@@ -1,9 +1,7 @@
 ---
 title: 'Chapter 4: Getting the word out'
 description:
-  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful.
-PLEASE DO NOT YET COMPLETE THE REFLECTIONS - YOU CAN WATCH THE VIDEOS IF YOU LIKE, BUT HOLD OFF WITH THE REFLECTIONS UNTIL WE'RE CAUGHT UP WITH CLASS! THANK YOU!
-"
+  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful."
 prev: /chapter3
 next: /chapter5
 type: chapter
@@ -33,7 +31,7 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVVDWVI4Q1FUR1c3QllWVFRSV0cwOE5HRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOEE3Wk9GWkhMOVhHMFo2UkI2RVdDWEFMWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -80,7 +78,7 @@ You can compute various network metrics in networkX. Check out the documentation
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVQ3Sk1EUklSMjlMQ0pLQklOQVpRSksyMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMkFJUU9ESFE5RE4yOFlLOEVSSUZEWThUMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -123,7 +121,7 @@ This is a simulation of the spread of COVID-19 created by Paul Smaldino (http://
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UM0NFUVo4MUJaVkVRMlhDRTYwOVpVUDA0TC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URERGM0dYUlpPWUdCNFlWQklPRzNCQ1ZJNC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -156,7 +154,7 @@ The right answer is cost per mille.</opt>
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOThIUTdLVEtRQUQ3TDdYNklOTEYwVDRSSy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMk9COURRMVFQNVpRSDNHMVNDRDkwMVMwUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -185,7 +183,7 @@ You are right, there is no prohibition of such private funding. In fact, tax-emp
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzBaOVoySjlJSFdPRDNWRTFKSDNLOUhIVy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMU5XWVlCTThSSjNJT0RQTldSRDlYRktSWS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -218,7 +216,7 @@ The correct answer is Gantt chart.</opt>
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UODBPVVZJRTlaOElLVVpXMUFKNldSQlgyRi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNDQ5TDhDTThZMTEwOURUNUNLS1JFWU1YSi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
